@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Salvo
 
 🎓 **Computer Science student @ UNISA (Italy)**
+
 💻 Passionate about **Web Development, Software Engineering and Mobile Programming**
+
 🚀 Currently building **Foundly** – a modern Lost & Found platform
+
 🌱 Always learning, always building
 
 ---
