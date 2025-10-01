@@ -24,11 +24,3 @@
 *(Aggiungi qui i link alle repo principali)*
 
 ---
-
-## 📫 Contacts
-
-* GitHub: [github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-
----
