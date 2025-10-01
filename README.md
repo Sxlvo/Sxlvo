@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Salvo
 
 🎓 **Computer Science student @ UniSa (Italy)**
 💻 Passionate about **web development, databases and AI**
@@ -19,8 +19,7 @@
 ## 📦 Projects
 
 * **Foundly** → Lost & Found webapp (Java/JSP + MySQL)
-* **[Other Project 1]** → breve descrizione
-* **[Other Project 2]** → breve descrizione
+* **Project Regina** → Ecommerce 
 
 *(Aggiungi qui i link alle repo principali)*
 
@@ -33,5 +32,3 @@
 * LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
 
 ---
-
-⭐️ From [your-username](https://github.com/your-username)
