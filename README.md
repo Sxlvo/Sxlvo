@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**Sxlvo/Sxlvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student @ UniSa (Italy)**
+💻 Passionate about **web development, databases and AI**
+🚀 Currently building **Foundly** – a modern Lost & Found platform
+🌱 Always learning, always building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* **Languages:** Java, Python, JavaScript, SQL, HTML5, CSS3
+* **Frameworks & Tools:** JSP/Servlet, Node.js, Express, Tomcat, Maven
+* **Databases:** MySQL, PostgreSQL
+* **Other:** Git/GitHub, Docker, REST API, Responsive Design
+
+---
+
+## 📦 Projects
+
+* **Foundly** → Lost & Found webapp (Java/JSP + MySQL)
+* **[Other Project 1]** → breve descrizione
+* **[Other Project 2]** → breve descrizione
+
+*(Aggiungi qui i link alle repo principali)*
+
+---
+
+## 📫 Contacts
+
+* GitHub: [github.com/your-username](https://github.com/your-username)
+* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+
+---
+
+⭐️ From [your-username](https://github.com/your-username)
