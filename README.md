@@ -17,6 +17,6 @@
 ## 📦 Projects
 
 * **Foundly** → Lost & Found webapp (Java/JSP + MySQL)
-* **Project Regina** → E-commerce platform
+* **Regina Chocolate** → E-commerce platform
 
 ---
