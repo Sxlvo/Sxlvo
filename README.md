@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Salvo
 
-**Web & Mobile Development · Software Engineering**
-
 🎓 MSc student in **Software Engineering and IT Management**  
 **University of Salerno — UNISA 🇮🇹**
 
@@ -30,11 +28,9 @@ Building web apps, mobile experiences and business integrations.
 
 | Project | About | Stack |
 | :--- | :--- | :--- |
-| 🏢 **Sales Agent Hub** — [Frontend](https://github.com/Sxlvo/Tirocinio-Frontend) / [Backend](https://github.com/Sxlvo/Tirocinio-Backend) | Sales management integrated with Microsoft Dynamics 365 Business Central | Angular, TypeScript, AL, MSAL |
+| 🏢 **Sales Agent Hub** — [Frontend](https://github.com/Sxlvo/Tirocinio-Frontend) / [Backend](https://github.com/Sxlvo/Tirocinio-Backend) | Bachelor's internship project at **BS SRL, Salerno**: a sales management application integrated with Microsoft Dynamics 365 Business Central | Angular, TypeScript, AL, MSAL |
 | 🥗 **[MangIA](https://github.com/Sxlvo/MangIA_Gruppo_09)** | Nutrition and wellness mobile prototype with simulated AI | Flutter, Dart, Riverpod |
-| 🍫 **[Regina Chocolate](https://github.com/Sxlvo/ProjectRegina)** | E-commerce platform with cart, orders and admin tools | Java, JSP, MySQL |
 | 🤖 **[TARS](https://github.com/Sxlvo/tars)** | Software maintenance project on an AI-powered VS Code extension | JavaScript, LangChain, LangGraph |
-| 🔎 **Foundly** | Lost-and-found web application | Java, JSP, MySQL |
 
 ---
 
