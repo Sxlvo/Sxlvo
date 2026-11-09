@@ -15,8 +15,11 @@
 
 ## 👨‍💻 About
 
-🎓 MSc in **Software Engineering and IT Management**, University of Salerno (UNISA) 🇮🇹
-📜 BSc in Computer Science, UNISA (110/110 cum laude, 2026)
+I build **web apps**, **mobile apps** and **enterprise integrations**, from Angular frontends to Dynamics 365 Business Central extensions.
+
+- 🎓 **2026 – present** · MSc in Computer Science, curriculum **Software Engineering and IT Management**, University of Salerno (UNISA) 🇮🇹
+- 📜 **2023 – 2026** · BSc in Computer Science, UNISA · **110/110 cum laude**
+- 💼 **2026** · Curricular internship (275 h) at BS SRL, Salerno: Angular + Dynamics 365 Business Central
 
 ## ⚡ Tech Stack
 
@@ -32,10 +35,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🏢 **Sales Agent Hub**<br>[Frontend](https://github.com/Sxlvo/Tirocinio-Frontend) · [Backend](https://github.com/Sxlvo/Tirocinio-Backend) | Sales management app integrated with Dynamics 365 Business Central (internship at BS SRL, Salerno) | `Angular` `TypeScript` `AL` `MSAL` |
+| 🏢 **Sales Agent Hub**<br>[Frontend](https://github.com/Sxlvo/Tirocinio-Frontend) · [Backend](https://github.com/Sxlvo/Tirocinio-Backend) | Sales management app integrated with Dynamics 365 Business Central | `Angular` `TypeScript` `AL` `MSAL` |
 | 🥗 **[MangIA](https://github.com/Sxlvo/MangIA_Gruppo_09)** | Nutrition and wellness mobile prototype with simulated AI | `Flutter` `Dart` `Riverpod` |
 | 🤖 **[TARS](https://github.com/Sxlvo/tars)** | Maintenance of an AI-powered VS Code extension | `JavaScript` `LangChain` `LangGraph` |
-| 🔎 **[Foundly](https://github.com/Sxlvo/Foundly)** | Web application built for the Software Engineering course | `Java` `Jakarta EE` |
+| 🔎 **[Foundly](https://github.com/Sxlvo/Foundly)** | Web application for the Software Engineering course | `Java` `Jakarta EE` |
 
 <div align="center">
 
