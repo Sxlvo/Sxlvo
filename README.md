@@ -36,15 +36,6 @@ I build **web apps**, **mobile apps** and **enterprise integrations**, from Angu
 | 🥗 | **[MangIA](https://github.com/Sxlvo/MangIA_Gruppo_09)** | Nutrition and wellness mobile prototype with simulated AI | `Flutter` `Dart` `Riverpod` |
 | 🤖 | **[TARS](https://github.com/Sxlvo/tars)** | Maintenance of an AI-powered VS Code extension | `JavaScript` `LangChain` `LangGraph` |
 
-## 📊 GitHub
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Sxlvo?style=for-the-badge&logo=github&color=E50914&labelColor=1A1A1A)
-![Last commit](https://img.shields.io/github/last-commit/Sxlvo/tars?style=for-the-badge&label=last%20commit&color=E50914&labelColor=1A1A1A)
-![Top language](https://img.shields.io/github/languages/top/Sxlvo/tars?style=for-the-badge&color=E50914&labelColor=1A1A1A)
-
-</div>
 
 <div align="center">
 
