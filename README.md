@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:5C0A0A&height=200&section=header&text=Salvatore%20Lepore&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student&descSize=18&descAlignY=60" alt="Salvatore Lepore" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:5C0A0A&height=170&section=header&text=Salvatore%20Lepore&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student&descSize=18&descAlignY=60" alt="Salvatore Lepore" />
 
 <a href="https://github.com/Sxlvo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E50914&center=true&vCenter=true&width=620&lines=Full-stack+Developer;Angular+%C2%B7+Flutter+%C2%B7+Java;Dynamics+365+Business+Central+Integrations;MSc+Software+Engineering+%40+UNISA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E50914&center=true&vCenter=true&width=760&lines=Full-stack+Developer;Angular+%C2%B7+Flutter+%C2%B7+Java;Dynamics+365+Business+Central+Integrations;MSc+Software+Engineering+%40+UNISA" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,29 +16,40 @@
 ## 👨‍💻 About
 
 🎓 MSc in **Software Engineering and IT Management**, University of Salerno (UNISA) 🇮🇹
+📜 BSc in Computer Science, UNISA (110/110 cum laude, 2026)
+
 I build **web apps**, **mobile apps** and **enterprise integrations**, from Angular frontends to Dynamics 365 Business Central extensions.
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,ts,js,dart,angular,flutter,mysql,maven,gradle,tomcat,html,css&perline=13" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,c,ts,js,dart,angular,flutter,mysql,maven,gradle,html,css&perline=12" alt="Tech stack" />
 
 </div>
 
-<sub>Also working with: Jakarta EE (JSP/Servlets) · AL · Business Central · REST/OData · MSAL · LangChain · LangGraph</sub>
+<sub>Also working with: Jakarta EE (JSP/Servlets) · Tomcat · AL · Business Central · REST/OData · MSAL · LangChain · LangGraph</sub>
 
 ## 🚀 Projects
 
-| | Project | Description | Stack |
-| :-: | :--- | :--- | :--- |
-| 🏢 | **Sales Agent Hub**<br>[Frontend](https://github.com/Sxlvo/Tirocinio-Frontend) · [Backend](https://github.com/Sxlvo/Tirocinio-Backend) | Sales management app integrated with Dynamics 365 Business Central (internship at BS SRL, Salerno) | `Angular` `TypeScript` `AL` `MSAL` |
-| 🥗 | **[MangIA](https://github.com/Sxlvo/MangIA_Gruppo_09)** | Nutrition and wellness mobile prototype with simulated AI | `Flutter` `Dart` `Riverpod` |
-| 🤖 | **[TARS](https://github.com/Sxlvo/tars)** | Maintenance of an AI-powered VS Code extension | `JavaScript` `LangChain` `LangGraph` |
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🏢 **Sales Agent Hub**<br>[Frontend](https://github.com/Sxlvo/Tirocinio-Frontend) · [Backend](https://github.com/Sxlvo/Tirocinio-Backend) | Sales management app integrated with Dynamics 365 Business Central (internship at BS SRL, Salerno) | `Angular` `TypeScript` `AL` `MSAL` |
+| 🥗 **[MangIA](https://github.com/Sxlvo/MangIA_Gruppo_09)** | Nutrition and wellness mobile prototype with simulated AI | `Flutter` `Dart` `Riverpod` |
+| 🤖 **[TARS](https://github.com/Sxlvo/tars)** | Maintenance of an AI-powered VS Code extension | `JavaScript` `LangChain` `LangGraph` |
+| 🔎 **[Foundly](https://github.com/Sxlvo/Foundly)** | Web application built for the Software Engineering course | `Java` `Jakarta EE` |
 
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0A0A,100:E50914&height=90&section=footer" alt="" />
+![Followers](https://img.shields.io/github/followers/Sxlvo?style=for-the-badge&logo=github&color=E50914&labelColor=1A1A1A)
+![Last commit](https://img.shields.io/github/last-commit/Sxlvo/tars?style=for-the-badge&label=last%20commit&color=E50914&labelColor=1A1A1A)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0A0A,100:E50914&height=60&section=footer" alt="" />
 
 </div>
