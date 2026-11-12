@@ -15,11 +15,9 @@
 
 ## 👨‍💻 About
 
-I build **web apps**, **mobile apps** and **enterprise integrations**, from Angular frontends to Dynamics 365 Business Central extensions.
-
 - 🎓 **2026 – present** · MSc in Computer Science, curriculum **Software Engineering and IT Management**, University of Salerno (UNISA) 🇮🇹
-- 📜 **2023 – 2026** · BSc in Computer Science, UNISA · **110/110 cum laude**
 - 💼 **2026** · Curricular internship (275 h) at BS SRL, Salerno: Angular + Dynamics 365 Business Central
+- 📜 **2023 – 2026** · BSc in Computer Science, UNISA · **110/110 cum laude**
 
 ## 🚀 Projects
 
