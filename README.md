@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,100:5C0A0A&height=170&section=header&text=Salvatore%20Lepore&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student&descSize=18&descAlignY=60" alt="Salvatore Lepore" />
 
 <a href="https://github.com/Sxlvo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E50914&center=true&vCenter=true&width=760&lines=Full-stack+Developer;Angular+%C2%B7+Flutter+%C2%B7+Java;Dynamics+365+Business+Central+Integrations;MSc+Software+Engineering+%40+UNISA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E50914&center=true&vCenter=true&width=760&lines=MSc+Software+Engineering+Student+%40+UNISA" alt="Typing animation" />
 </a>
 
 <br/>
